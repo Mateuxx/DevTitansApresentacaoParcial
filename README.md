@@ -1,2 +1,1 @@
 # DevTitansApresentacaoParcial
-# DevTitansApresentacaoParcial
