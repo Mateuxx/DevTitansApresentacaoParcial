@@ -7,3 +7,13 @@ O DevTITANS é um projeto colaborativo entre o IComp/UFAM, Motorola e Flextronic
 
 "O objetivo principal do projeto é capacitar profissionais e estudantes nas nuances avançadas e especializadas da plataforma Android voltada para dispositivos embarcados. Este curso é destinado tanto a alunos de graduação e pós-graduação quanto a profissionais do mercado em busca de conhecimentos técnicos de alta qualidade." 
 
+## DroidStick 
+Criar um driver para possibilitar que um Raspberry funcione como um joystick via USB.
+
+## O Raspberry Pico funcionando como um joystick via USB
+
+Usando um Firmware com o Driver que já reconhece  o Raspberry Pico como um joystick  de Xbox, PS3, PS4, entre outros!
+
+Para utilizae o microoncrolador desta forma, é necessário baixar o driver abaixo:
+
+Driver: https://gp2040-ce.info/#/
