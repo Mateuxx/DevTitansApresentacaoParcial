@@ -23,5 +23,15 @@ Driver: https://gp2040-ce.info/#/
 O curso utiliza uma variedade de ferramentas e componentes para proporcionar uma experiência prática e abrangente no desenvolvimento de Android para sistemas embarcados. Alguns dos principais recursos incluem:
 
 #### Plataformas de Hardware
--- Raspberry Pi: Utilizado como plataforma de referência para desenvolvimento e testes.
--- ESP32: Introdução e exploração das capacidades para integração com o Android em sistemas embarcados.
+-> Raspberry Pi: Utilizado como plataforma de referência para desenvolvimento e testes.
+
+-> ESP32: Introdução e exploração das capacidades para integração com o Android em sistemas embarcados.
+
+#### Componentes de Hardware: 
+
+LEDs: Utilizados para demonstrações práticas e experiências de controle e feedback.
+
+Botões: Integrados para explorar interações físicas com dispositivos embarcados
+
+Outros componente: Jampers, Resistores, sensores e dentre vairos outros  componentes eletrônicos
+
