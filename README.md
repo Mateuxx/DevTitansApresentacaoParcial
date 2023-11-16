@@ -35,3 +35,4 @@ Botões: Integrados para explorar interações físicas com dispositivos embarca
 
 Outros componente: Jampers, Resistores, sensores e dentre vairos outros  componentes eletrônicos
 
+![image](https://github.com/Mateuxx/DevTitansApresentacaoParcial/assets/83120884/c51939f1-02ae-42da-a49a-290c1d951fa3)
