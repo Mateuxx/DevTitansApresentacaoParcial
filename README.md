@@ -17,3 +17,11 @@ Usando um Firmware com o Driver que já reconhece  o Raspberry Pico como um joys
 Para utilizae o microoncrolador desta forma, é necessário baixar o driver abaixo:
 
 Driver: https://gp2040-ce.info/#/
+
+### Ferramentas Utilizadas 
+
+O curso utiliza uma variedade de ferramentas e componentes para proporcionar uma experiência prática e abrangente no desenvolvimento de Android para sistemas embarcados. Alguns dos principais recursos incluem:
+
+#### Plataformas de Hardware
+-- Raspberry Pi: Utilizado como plataforma de referência para desenvolvimento e testes.
+-- ESP32: Introdução e exploração das capacidades para integração com o Android em sistemas embarcados.
