@@ -10,9 +10,12 @@ O DevTITANS é um projeto colaborativo entre o IComp/UFAM, Motorola e Flextronic
 ## DroidStick 
 Criar um driver para possibilitar que um Raspberry funcione como um joystick via USB.
 
-## O Raspberry Pico funcionando como um joystick via USB
+## O Raspberry Pico funcionando como um joystick via USB dom um button 
 
 Usando um Firmware com o Driver que já reconhece  o Raspberry Pico como um joystick  de Xbox, PS3, PS4, entre outros!
+
+![image](https://github.com/Mateuxx/DevTitansApresentacaoParcial/assets/83120884/c51939f1-02ae-42da-a49a-290c1d951fa3) 
+
 
 Para utilizae o microoncrolador desta forma, é necessário baixar o driver abaixo:
 
@@ -35,4 +38,7 @@ Botões: Integrados para explorar interações físicas com dispositivos embarca
 
 Outros componente: Jampers, Resistores, sensores e dentre vairos outros  componentes eletrônicos
 
-![image](https://github.com/Mateuxx/DevTitansApresentacaoParcial/assets/83120884/c51939f1-02ae-42da-a49a-290c1d951fa3)
+## Simular o esp32 como um controle: 
+Como os bottons estavam sendo ocupados pela equipe anterior da turma do projeto, foi feito atraves do Esp32 para ele receber sinal das teclas do teclado ja muito conhecida pela galera que jogar no PC: w,s,a,d. 
+Primeiramente a ideia foi validada atraves de leds que simulavam as setinhas para cima, para baixo, esqueda e direita. 
+
